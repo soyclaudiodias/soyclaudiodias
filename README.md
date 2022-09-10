@@ -1,5 +1,5 @@
 ### Olá, eu sou Cláudio Dias 👋
-- Curso de Técncico emInformática | Instituto Social Nossa Senhora de Fátima.
+- Curso de Técncico em Informática | Instituto Social Nossa Senhora de Fátima.
 - Bacharelado em Ciência da Computação | Universidade Presbiteriana Mackenzie.
 
 <div align="center">
