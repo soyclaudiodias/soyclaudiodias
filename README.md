@@ -26,7 +26,7 @@ Sou apaixonado por tecnologia, adoro resolver problemas e estou sempre em busca 
 ## 📊 Estatísticas
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=soyclaudiodias&show_icons=true&theme=tokyonight&locale=pt-br" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyclaudiodias&show_icons=true&theme=tokyonight&layout=compact&locale=pt-br&langs_count=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyclaudiodias&show_icons=true&theme=tokyonight&layout=compact&locale=pt-br&langs_count=12"/>
 </p>
 
 <br>
