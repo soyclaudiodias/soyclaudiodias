@@ -1,8 +1,8 @@
 # Hola, soy Cláudio Dias 👋
 
-**`Desenvolvedor Full Stack`**
+**`Desenvolvedor de Software`**
 
-Me chamo Cláudio Dias, tenho 21 anos e sou de São Paulo/SP.
+Me chamo Cláudio Dias, tenho 22 anos e sou de São Paulo/SP.
 Sou apaixonado por tecnologia, adoro resolver problemas e estou sempre em busca de novos desafios que me permitam evoluir e contribuir com soluções criativas.
 
 - 🎓 **Curso Técnico em Informática** | Instituto Social Nossa Senhora de Fátima.
